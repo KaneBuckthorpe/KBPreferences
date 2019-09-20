@@ -1,0 +1,10 @@
+Package: com.kaneb.kbpreferences
+Name: KBPreferences
+Depends: 
+Version: 0.0.6
+Architecture: iphoneos-arm
+Description: Kane B's preferences framework
+Maintainer: Kane Buckthorpe
+Author: Kane Buckthorpe
+Section: System
+Tag: role::developer
